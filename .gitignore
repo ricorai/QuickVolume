@@ -1,0 +1,5 @@
+# Build & temporary files
+*.tmp
+*.log
+__pycache__/
+*.exe.config
